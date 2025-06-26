@@ -36,3 +36,5 @@ Conclusões e recomendações
 
 ## 🚀 Resultados
 O projeto conseguiu identificar os principais fatores relacionados ao churn e treinar modelos com  acurácia preditiva, podendo ser uma base para ações estratégicas de marketing e retenção de clientes
+
+link do DataFrame: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
